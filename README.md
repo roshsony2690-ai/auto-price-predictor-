@@ -130,6 +130,3 @@ The analysis includes several visualizations:
 3. **Model Accuracy**: The tuned Random Forest model explains approximately 85-90% of the variance in car prices.
 
 4. **Performance Improvement**: Hyperparameter tuning improved the model's R² score by 2-5%.
-
-## 🚀 How to Run the Project
-
